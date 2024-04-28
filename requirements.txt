@@ -1,4 +1,4 @@
-Here's the requirements.txt file for your Streamlit app:
+Here's the requirements.txt file for the Streamlit app:
 
 streamlit==1.11.0
 os-sys==3.2.3
